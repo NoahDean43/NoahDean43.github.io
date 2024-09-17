@@ -15,4 +15,8 @@ project_entries:
 
   - title: My New Project
     url: new-project-post
-    desc: This my new project
+    desc: This is my new project
+
+  - title: My New Post
+    url: my-new-post
+    desc: Hello, this is my new post
