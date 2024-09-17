@@ -9,10 +9,10 @@ navbar_entries:
     url: https://github.com/
 
 project_entries:
-  - title: Template 1
-    url: template-1-post
+  - title: My First Project
+    url: first-project-post
     desc: This is an example project, template 1
 
-  - title: Template 2
-    url: template-2-post
+  - title: My New Project
+    url: new-project-post
     desc: This is an example project, template 2
